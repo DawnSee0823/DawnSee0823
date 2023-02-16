@@ -104,12 +104,6 @@
 </details>
 
 <details>
-  <summary>&#127943 Stackoverflow Stats</summary><br>
-
-[![Omid Nikrah StackOverflow](https://github-readme-stackoverflow.vercel.app/?userID=9960450&theme=dark)](https://stackoverflow.com/users/9960450/dinush-chathurya)
-</details>
-
-<details>
   <summary>🔥 Streak stats</summary><br>
 
   [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=dinushchathurya&theme=highcontrast&hide_border=true)](https://git.io/streak-stats)
