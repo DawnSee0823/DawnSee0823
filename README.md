@@ -21,8 +21,6 @@
 ➡️ [more posts...](https://codingtricks.io)
 
 ---
-
----
 ### Online Presence
 
 <!-- markdownlint-disable MD033 -->
