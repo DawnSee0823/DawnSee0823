@@ -1,5 +1,5 @@
 
-## I love DawnSee.
+## Hello, Everyone! I love DawnSee.
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=DevOps,Senior+Full-Stack+Engineer;AWS+Community+Builder;Open-Source+Enthusiast;Artisan+Lover;Social+Media+Influencer;Blogger;and+UI/UX-designer!;)](https://git.io/typing-svg)
 
 - 🌱 I’m currently learning everything 🤣
