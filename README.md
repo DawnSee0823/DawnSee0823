@@ -94,7 +94,4 @@
 
 ### Connect with me
 
-[<img src="https://img.shields.io/badge/Website-4353FF?&logo=webflow&logoColor=white"/>](https://dinushchathurya.github.io)
-[<img src="https://img.shields.io/badge/Radio-E434AA?&logo=drooble&logoColor=white"/>](https://dinushchathurya.github.io/radio)
-[<img src="https://img.shields.io/badge/Patreon-FF424D?&logo=patreon&logoColor=white"/>](https://www.patreon.com/dinushchathurya)
-[<img src="https://img.shields.io/badge/Blog-FFA500?&logo=rss&logoColor=white"/>](https://codingtricks.io/)
+
